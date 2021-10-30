@@ -10,7 +10,7 @@ HPL (Hack Password in Linux) - инструмент для сброса паро
 Репозиторий защищён авторским правом! Если вы хотите его свободно редактировать для публикации, свяжитесь с нами. 
 
 Вы можете посмотреть видеоурок на YouTube о том, как использовать этот инструмент:
-Ссылка 
+https://youtu.be/WYGnSssWlRs
 
 Как запустить:
 1. Запуститесь с live-дистрибутива linux 
@@ -42,7 +42,7 @@ HPL (Hack Password in Linux) - a tool for password reset in Linux systems. The r
 The repository is copyrighted! If you want to edit it freely for publication, please contact us. 
 
 You can watch a video tutorial on YouTube on how to use this tool:
-Ссылка 
+https://youtu.be/WYGnSssWlRs
 
 how to launch:
 1. Start with a live linux distribution 
